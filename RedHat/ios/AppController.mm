@@ -72,6 +72,7 @@ static AppDelegate s_sharedApplication;
     
     //測試用修改
     //test 2
+    //test3
     
     cocos2d::CCDirector::sharedDirector()->pause();
 }
